@@ -1,0 +1,100 @@
+.half {
+    background-image: url(./food.jpeg);
+    width: 100%;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-blend-mode: overlay;
+    background-color: #ff000057;
+}
+
+.log {
+    text-align: right;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 10px;
+    padding: 20px 10%;
+}
+
+.acc {
+    border: 2px solid white;
+    color: #ffffff;
+    background-color: #ff00004a;
+    border-radius: 4px;
+    width: 130px;
+    height: 32px;
+}
+
+.restaurant {
+    text-align: center;
+    font-size: 39px;
+    font-family: math;
+    color: white;
+    margin-top: 35px;
+}
+
+.cheflogo {
+    height: 100px;
+    padding: 0px 47%;
+    margin-top: 30px;
+}
+
+.subpage1 {
+    font-size: 20px;
+    width: 150px;
+    height: 30px;
+}
+
+.subpage2 {
+    font-size: 20px;
+    width: 390px;
+    height: 30px;
+    margin: 0px 2%;
+
+}
+
+.subpage {
+    padding: 0px 25%;
+    gap: 10px;
+}
+
+.landingimg {
+    height: 100px;
+    width: 25%;
+}
+
+.cards {
+    display: flex;
+    padding: 0px 10%;
+    flex-wrap: wrap;
+    gap: 0px;
+    justify-content: space-evenly;
+
+
+}
+
+.card1 {
+    display: flex;
+    gap: 24px;
+    width: 27%;
+    height: 130px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+
+}
+
+.subhead {
+    font-size: 30px;
+    font-family: serif;
+    margin-left: 176px;
+    margin-top: 10px;
+}
+
+.subpara {
+    font-family: serif;
+    ;
+    font-size: 18px;
+    margin-left: 180px;
+    color: #afa3a1;
+}
